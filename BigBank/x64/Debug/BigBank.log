@@ -1,0 +1,8 @@
+﻿  BankAccount.cpp
+C:\Users\botez\source\repos\BigBank\BigBank\BankAccount.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BigBank.cpp
+  CurrentAccount.cpp
+  SavingsAccount.cpp
+  Generating Code...
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  BigBank.vcxproj -> C:\Users\botez\source\repos\BigBank\x64\Debug\BigBank.exe
